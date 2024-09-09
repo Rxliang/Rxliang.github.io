@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="./rxliang.png" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Ruixing Liang (Simon Leung, 梁瑞星)**.
 
-I am a final-year undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined Degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
+I am a third-year PhD Candidate majoring in Electrical and Computer Engineering at Johns Hopkins University and work at Johns Hopkins Medicine Neurosurgery Department. Currently, I serve as a research assistant at the HEPIUS Lab, advised by [Prof. Amir Manbachi](https://scholar.google.com/citations?user=EhKqSpIAAAAJ) and [Dr. Nicholas Theodore](https://clinicalconnection.hopkinsmedicine.org/participant/nicholas-theodore-md-ms). **.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
