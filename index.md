@@ -16,19 +16,19 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - **Sep 2022 - Current:** Johns Hopkins University (PhD, ECE)
 - **Sep 2021 - June 2023:** Johns Hopkins University (MSE, ECE)
-- **Sep 2016 - June 2020:** Chinese University of Hongkong (CUHK) (BEng, EIE)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2016 - June 2020:** Chinese University of Hongkong, Shenzhen (CUHK) (BEng, EIE)
 
 ---
 
 ## Research Interests
 
 - Medical Imaging
+- Human Computer Interface
 - Focused Ultrasound Therapy
 - Surgical Navigation
 - Applied Deep Learning in Medicine and Science
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on novel engineering solutions to modern surgeries especially for neurosurgery. I am especially passionate about the integration of **Deep Learning** and **Augmented Reality** in **Surgical Navigation** and **Neural Implants**. My goal is to leverage these advanced technologies to enhance surgical precision and patient outcomes, ultimately contributing to the well-being of society.
 
 ---
 
