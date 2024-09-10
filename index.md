@@ -8,25 +8,25 @@ layout: page
 
 Here is **Ruixing Liang (Simon Leung, 梁瑞星)**.
 
-I am a third-year PhD Candidate majoring in Electrical and Computer Engineering at Johns Hopkins University and work at Johns Hopkins Medicine Neurosurgery Department. Currently, I serve as a research assistant at the HEPIUS Lab, advised by [Prof. Amir Manbachi](https://scholar.google.com/citations?user=EhKqSpIAAAAJ) and [Dr. Nicholas Theodore](https://clinicalconnection.hopkinsmedicine.org/participant/nicholas-theodore-md-ms). **.
+I am a third-year PhD Candidate majoring in Electrical and Computer Engineering at Johns Hopkins University and work at Johns Hopkins Medicine Neurosurgery Department. Currently, I serve as a research assistant at the [HEPIUS Lab](https://www.hopkinsmedicine.org/neurology-neurosurgery/research/hepius), advised by [Prof. Amir Manbachi](https://scholar.google.com/citations?user=EhKqSpIAAAAJ) and [Dr. Nicholas Theodore](https://clinicalconnection.hopkinsmedicine.org/participant/nicholas-theodore-md-ms). **.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *rliang7@jh.edu*
 
 ## Academic Background
 
-- **Sep 2024 - Future:** Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
+- **Sep 2022 - Current:** Johns Hopkins University (PhD, ECE)
+- **Sep 2021 - June 2023:** Johns Hopkins University (MSE, ECE)
+- **Sep 2016 - June 2020:** Chinese University of Hongkong (CUHK) (BEng, EIE)
 - **June 2022 - Nov 2022:** Cambridge University (Internship)
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
-- Applied Machine Learning
+- Medical Imaging
+- Focused Ultrasound Therapy
+- Surgical Navigation
+- Applied Deep Learning in Medicine and Science
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
