@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./rxliang.png" class="floatpic" width="360" height="480">
+<img src="./ruixingliang.jpeg" class="floatpic" width="360" height="360">
 
 Here is **Ruixing Liang (Simon Leung, 梁瑞星)**.
 
