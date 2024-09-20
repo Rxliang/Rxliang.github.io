@@ -39,7 +39,7 @@ links:
   - title: About Me
     url: /
   - title: Projects
-  url: /projects/
+    url: /projects/
   - title: Publications
     url: /publications/
   - title: Awards
