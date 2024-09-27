@@ -17,8 +17,8 @@ title: Projects
 
 ## Focused Ultrasound Therapy
 <div class="third">
-<img src="images/projs/FUS_neuromod.png">
-<img src="images/projs/FUS_field.png">
+<img src="/images/projs/FUS_neuromod.png">
+<img src="/images/projs/FUS_field.png">
 <img src="/images/projs/FUS_MRI.png">
 </div>
 
