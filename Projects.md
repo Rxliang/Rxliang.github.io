@@ -17,9 +17,9 @@ title: Projects
 
 ## Focused Ultrasound Therapy
 <div class="third">
-<img src="images/projs/FUS_neuromod.jpg">
+<img src="images/projs/FUS_neuromod.png">
 <img src="images/projs/FUS_field.png">
-<img src="/images/projs/FUS_MRI.jpg">
+<img src="/images/projs/FUS_MRI.png">
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMTTfhmdqFI" frameborder="0" allowfullscreen></iframe>
