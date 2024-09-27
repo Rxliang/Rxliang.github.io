@@ -10,6 +10,9 @@ title: Projects
 <div class="third">
 <img src="/images/projs/device.png">
 <img src="/images/projs/context.png">
-<img src="/images/projs/context.png">
+<img src="/images/projs/spine.png">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfinga aaaa.
+<br>Salvaging recoverable tissue following an acute spinal cord injury (SCI) remains a challenging aspect of patient care, primarily due to limited therapeutic options and the difficulty in continuously monitoring physiological changes that contribute to deficits[^1]. In response, we have developed a multifunctional ultrasound-based platform, MUSIC, which offers a comprehensive approach to SCI care. This thin and flexible device is designed for placement along the spinal cord following standard decompression surgery, where bone is removed to alleviate pressure as shown in
+</br>
+
+[^1]: Johnson, A. (2018). *Markdown for Documentation*. Tech Publishers.
