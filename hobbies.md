@@ -6,7 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Hiking & Walking in the Wild
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -33,20 +33,16 @@ I previously enjoyed long-distance running, [vlog making](https://space.bilibili
 
 ## My Cat
 
-She is my love. Her name is Qbao (Q宝).
+She is my love. Her name is Laki .
 
 <div>
-<img src="/images/cat.JPG">
+<img src="/images/cat.jpg">
 </div>
 <br>
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+**Jan 2023:** I have set up the [online-coffee-time](https://outlook.office.com/bookwithme/user/86edc2fc0c3747159c5bc426da2559a4@jh.edu/meetingtype/53aZNPt1_0C4Mamsa9elnw2?anonymous&ep=mlink) Welcome to chat with me!
 
-<!-- Calendly inline widget begin -->
-
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+<iframe src="https://outlook.office.com/bookwithme/user/86edc2fc0c3747159c5bc426da2559a4@jh.edu/meetingtype/53aZNPt1_0C4Mamsa9elnw2?anonymous&ep=mlink" width="100%" height="650" frameborder="0"></iframe>
 
