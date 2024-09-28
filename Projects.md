@@ -21,6 +21,7 @@ title: Projects
 <img src="/images/projs/FUS_field.png">
 <img src="/images/projs/FUS_MRI.png">
 </div>
+<br>Imagine harnessing the power of sound waves to precisely target and treat areas of the body without ever making an incision. Focused Ultrasound (FUS) is revolutionizing medicine by offering a non-invasive alternative to surgery—no radiation, fewer complications, and faster recovery. We’ve taken it further with the AMPLITUDE characterization platform [^3], pushing the boundaries of what’s possible. In addition, we’ve pioneered an in vitro neuromodulation platform and conducted MRI-guided FUS experiments on rats, alongside ultrasound-guided trials on pigs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMTTfhmdqFI" frameborder="0" allowfullscreen></iframe>
 
@@ -32,3 +33,7 @@ title: Projects
 
 
 [^1]: Lorach, Henri, et al. [*Walking naturally after spinal cord injury using a brain–spine interface.*](https://www.nature.com/articles/s41586-023-06094-5) Nature 618.7963 (2023): 126-133.
+
+[^2]:Liang, Ruixing, et al. [*Designing an Accurate Benchtop Characterization Device: An Acoustic Measurement Platform for Localizing and Implementing Therapeutic Ultrasound Devices and Equipment (Amplitude).*](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2022/84815/V001T10A003/1140675) Frontiers in Biomedical Devices. Vol. 84815. American Society of Mechanical Engineers, 2022.
+
+[^3]: Liang, Ruixing, et al. [*Focused Ultrasound Neuromodulation of Human In Vitro Neural Cultures in Multi-Well Microelectrode Arrays.*](https://www.jove.com/t/65115/focused-ultrasound-neuromodulation-human-vitro-neural-cultures-multi) JoVE (Journal of Visualized Experiments) 207 (2024): e65115.

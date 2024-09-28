@@ -9,13 +9,13 @@ title: Hobbies
 ## Hiking & Walking in the Wild
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/hike1.JPG">
+<img src="/images/hike2.JPG">
+<img src="/images/hike3.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br>Hiking and walking lift my worries, rejuvenate my body, and fill me with the courage to conquer any challenge. There’s nothing quite like the feeling of being immersed in the crisp, fresh air of the mountains—it’s both a reset and an inspiration. And as a bonus, it opens up endless opportunities for me to indulge in my second passion: capturing the beauty of nature through my lens.
 
-## Workshop
+## Photography
 
 <div class="third">
 <img src="/images/prelection1.JPG">
