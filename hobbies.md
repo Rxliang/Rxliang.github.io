@@ -8,11 +8,10 @@ title: Hobbies
 
 ## Hiking & Walking in the Wild
 
-<div class="third">
 <img src="/images/hike1.JPG">
 <img src="/images/hike2.JPG">
 <img src="/images/hike3.JPG">
-</div>
+
 <br>Hiking and walking lift my worries, rejuvenate my body, and fill me with the courage to conquer any challenge. There’s nothing quite like the feeling of being immersed in the crisp, fresh air of the mountains—it’s both a reset and an inspiration. And as a bonus, it opens up endless opportunities for me to indulge in my second passion: capturing the beauty of nature through my lens.
 
 ## Photography
