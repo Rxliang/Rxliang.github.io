@@ -4,17 +4,19 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (*: equal contribution)
 
-## Conference Paper
+## Published Papers
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+- [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://www.researchgate.net/publication/384046364/)<br>**Ruixing Liang**, Xiangyu Zhang, Qiong Li, Lai Wei, Hexin Liu, Avisha Kumar, Kelley M. Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, and Amir Manbachi<br>ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>Seoul, Korea. Apr, 2024.<br>
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+- [Focused Ultrasound Neuromodulation of Human In Vitro Neural Cultures in Multi-Well Microelectrode Arrays](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Ruixing Liang**, Griffin Mess, Joshua Punnoose, Kelley M. Kempski Leadingham, Constantin Smit, Nitish Thakor, Christa W. Habela, Betty Tyler, Yousef Salimpour, and Amir Manbachi<br>JoVE (Journal of Visualized Experiments) 207 (2024): e65115.
+
 
   <br>
 
 ---
+## Contributing Published paper 
 
 ## Ongoing Project
 
@@ -47,4 +49,4 @@ To match the ubiquitous connectivity and heterogeneous networking characteristic
 
   <br>
 
-> Update: 15th Sep 2024
+> Update: 29th Sep 2024

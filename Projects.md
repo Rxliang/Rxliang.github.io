@@ -21,16 +21,26 @@ title: Projects
 <img src="/images/projs/FUS_field.png">
 <img src="/images/projs/FUS_MRI.png">
 </div>
-<br>Imagine harnessing the power of sound waves to precisely target and treat areas of the body without ever making an incision. Focused Ultrasound (FUS) is revolutionizing medicine by offering a non-invasive alternative to surgery—no radiation, fewer complications, and faster recovery. We’ve taken it further with the AMPLITUDE characterization platform [^3], pushing the boundaries of what’s possible. In addition, we’ve pioneered an in vitro neuromodulation platform and conducted MRI-guided FUS experiments on rats, alongside ultrasound-guided trials on pigs.
+<br>Imagine harnessing the power of sound waves to precisely target and treat areas of the body without ever making an incision. Focused Ultrasound (FUS) is revolutionizing medicine by offering a non-invasive alternative to surgery—no radiation, fewer complications, and faster recovery. We’ve taken it further with the AMPLITUDE characterization platform [^2], pushing the boundaries of what’s possible. In addition, we’ve pioneered an in vitro neuromodulation platform [^3] and conducted MRI-guided FUS experiments on rats, alongside ultrasound-guided trials on pigs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cMTTfhmdqFI" frameborder="0" allowfullscreen></iframe>
 
-## Robot-assisted Surgery (Vision Sensing and Augmented Reality (AR))
+## Robot(Computer)-assisted Surgery (Vision Sensing Digital Twins and Augmented Reality (AR))
+<img src="/images/projs/VR_setup.png">
+<br>With the growing adoption of sensors in operating rooms, surgeons are now better equipped to make precise, agile decisions during procedures. This is particularly crucial in neurosurgeries, where the level of accuracy required, especially for neural implants, makes these advanced tools not just beneficial, but essential. The integration of such technology ensures safer outcomes and helps navigate the complexities of modern surgery with greater confidence.
+<img src="/images/projs/demo_video_CIS.gif">
 
 ## Spotaneous and Natural Conversation Agent (Speech AI)
 
 ## Multi-modal Deep Learning 
 
+## Chat with me
+
+**Jan 2023:** I have set up the [online-coffee-time](https://outlook.office.com/bookwithme/user/86edc2fc0c3747159c5bc426da2559a4@jh.edu/meetingtype/53aZNPt1_0C4Mamsa9elnw2?anonymous&ep=mlink) Welcome to chat with me!
+
+<iframe src="https://outlook.office.com/bookwithme/user/86edc2fc0c3747159c5bc426da2559a4@jh.edu/meetingtype/53aZNPt1_0C4Mamsa9elnw2?anonymous&ep=mlink" width="100%" height="650" frameborder="0"></iframe>
+
+---
 
 [^1]: Lorach, Henri, et al. [*Walking naturally after spinal cord injury using a brain–spine interface.*](https://www.nature.com/articles/s41586-023-06094-5) Nature 618.7963 (2023): 126-133.
 
