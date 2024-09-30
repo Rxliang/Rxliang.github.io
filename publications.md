@@ -4,49 +4,52 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (*: equal contribution)
+> (†: equal contribution)
 
 ## Published Papers
 
-- [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://www.researchgate.net/publication/384046364/)<br>**Ruixing Liang**, Xiangyu Zhang, Qiong Li, Lai Wei, Hexin Liu, Avisha Kumar, Kelley M. Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, and Amir Manbachi<br>ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>Seoul, Korea. Apr, 2024.<br>
+- [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366)<br>**Ruixing Liang**, Xiangyu Zhang, Qiong Li, Lai Wei, Hexin Liu, Avisha Kumar, Kelley M. Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, and Amir Manbachi<br>ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>Seoul, Korea. Apr, 2024.<br>
 
-- [Focused Ultrasound Neuromodulation of Human In Vitro Neural Cultures in Multi-Well Microelectrode Arrays](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Ruixing Liang**, Griffin Mess, Joshua Punnoose, Kelley M. Kempski Leadingham, Constantin Smit, Nitish Thakor, Christa W. Habela, Betty Tyler, Yousef Salimpour, and Amir Manbachi<br>JoVE (Journal of Visualized Experiments) 207 (2024): e65115.
+- [Focused Ultrasound Neuromodulation of Human In Vitro Neural Cultures in Multi-Well Microelectrode Arrays](https://www.jove.com/t/65115/focused-ultrasound-neuromodulation-human-vitro-neural-cultures-multi)<br>**Ruixing Liang**, Griffin Mess, Joshua Punnoose, Kelley M. Kempski Leadingham, Constantin Smit, Nitish Thakor, Christa W. Habela, Betty Tyler, Yousef Salimpour, and Amir Manbachi<br>JoVE (Journal of Visualized Experiments) 207 (2024): e65115.
 
+- [Twin-S: a digital twin for skull base surgery](https://link.springer.com/article/10.1007/s11548-023-02863-9)<br>Shu, Hongchao†, **Ruixing Liang**†, Zhaoshuo Li, Anna Goodridge, Xiangyu Zhang, Hao Ding, Nimesh Nagururu et al. "Twin-S: a digital twin for skull base surgery." International journal of computer assisted radiology and surgery 18, no. 6 (2023): 1077-1084.<br>International Journal of Computer Assisted Radiology and Surgery 18, no. 7 (2023): 1077-1084
+
+- [Designing an Accurate Benchtop Characterization Device: An Acoustic Measurement Platform for Localizing and Implementing Therapeutic Ultrasound Devices and Equipment (Amplitude)](https://asmedigitalcollection.asme.org/BIOMED/proceedings/DMD2022/84815/V001T10A003/1140675)<br>**Ruixing Liang**, Max Kerensky, Eli Curry, Griffin Mess, Rasika Thombre, Serene Kamal, Fariba Aghabaglou, Richard Mejia, Francisco Chavez, Kyle Morrison, Nitish Thakor, Nicholas Theodore, Amir Manbachi<br>In Frontiers in Biomedical Devices, vol. 84815, p. V001T10A003. American Society of Mechanical Engineers, 2022. <br>Minneapolis, USA. Apr, 2022
 
   <br>
 
 ---
 ## Contributing Published paper 
 
-## Ongoing Project
+- [SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions--An EndoVis](https://arxiv.org/pdf/2407.11906)<br>Ding, Hao, Tuxun Lu, Yuqian Zhang, **Ruixing Liang**, Hongchao Shu, Lalithkumar Seenivasan, Yonghao Long, Qi Dou, Cong Gao, and Mathias Unberath<br>arXiv preprint arXiv:2407.11906 (2024).
 
-- Intelligent Communication Systems for Internet of Everything
-- Supervised by [Prof. Özgür Akan](https://www.eng.cam.ac.uk/profiles/oba21)
+- [Sonodynamic therapy for the treatment of glioblastoma multiforme in a mouse model using a portable benchtop focused ultrasound system](https://www.jove.com/t/65114/sonodynamic-therapy-for-treatment-glioblastoma-multiforme-mouse-model)<br>Mess, Griffin, Taylor Anderson, Shivani Kapoor, Rasika Thombre, **Ruixing Liang**, Emre Derin, Kelley M. Kempski-Leadingham, Santosh K. Yadav, Betty Tyler, and Amir Manbachi<br>JoVE (Journal of Visualized Experiments) 192 (2023): e65114.
 
-To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. Internet of Nano Things (IoNT), for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. Internet of People and Senses (IoPS), as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We will design and implement new intelligent communication techniques for the Internet of Everything.
+- [Tatoo: vision-based joint tracking of anatomy and tool for skull-base surgery](https://link.springer.com/article/10.1007/s11548-023-02959-2)<br>Li, Zhaoshuo, Hongchao Shu, **Ruixing Liang**, Anna Goodridge, Manish Sahu, Francis X. Creighton, Russell H. Taylor, and Mathias Unberath<br>International Journal of Computer Assisted Radiology and Surgery 18, no. 7 (2023): 1303-1310.
+
+
+## Ongoing Projects
+
+- Conversational Audio Speech of Peer Engagement Recordings (CASPER) bridges AI agents to Real Life {#deep-learning-medical-imaging}
+- Supervised by [Prof. Khudanpur Sanjeev ](https://www.clsp.jhu.edu/faculty-pages/sanjeev/#:~:text=Department%20of%20Computer%20Science%20(secondary%20appointment)) and [Dr. Leibny Paola Garcia ](https://www.clsp.jhu.edu/faculty/paola-garcia/#:~:text=Paola%20Garcia%20is%20an%20Assistant%20Research)
+
+Conversational Audio Speech of Peer Engagement Recordings (CASPER) introduces a novel dataset designed to advance AI research in naturalistic dialogue systems. CASPER provides a rich resource of spontaneous and casual conversations, specifically tailored to enhance the training of AI models in understanding semantic context, maintaining topical coherence, and executing effective turn-taking. Collected through a cross-platform web application and open-sourced in collaboration with universities, the dataset encompasses a diverse range of speakers and scenarios.
+The pilot phase of CASPER has 100 hours of transcribed and human validated English conversational audio amongst more than 100 users which in next phase aims to amass 100k hours, with plans to extend to other languages and global university partners. 
+To facilitate the research on this corpus, we provide results of several benchmark models. Comparative results show that for this dataset, our current models are not able to provide significant improvement by introducing background knowledge/topic. Therefore, the proposed dataset should be a good benchmark for further research to evaluate the validity and naturalness of multi-turn conversation systems.
+This dataset addresses critical gaps in existing resources, which predominantly focus on text or formal speech and often lack the flexibility to adapt to the diverse linguistic landscape. By facilitating scalable data collection for casual, expressive, and conversational speech across various languages, CASPER stands to significantly enhance the development of AI systems capable of engaging in more human-like interactions. 
+
+-**More projects are work in progress stay tuned in next few months for more details** 
 
 <br>
 
 ---
 
-## Degree Thesis
+## Early Projects
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
+- [COVID Automatic Throat Swapping Robot Prototype](https://www.thepaper.cn/newsDetail_forward_12743360)<br>*Designed and implemented visual sensing function and deployed on AWS.*<br>[Cloud Surgical Robotics System](https://blogs.nvidia.cn/blog/surgical-ai-nvencode/#:~:text=%E4%BA%91%E7%99%BE%E7%94%9F5g%E4%BA%91)<br>**Ruixing Liang**, Ziheng Xiao (Advisors: [Dr. Fangde Liu](https://scholar.google.com/citations?user=I9rnEXwAAAAJ#:~:text=Fangde%20Liu.%20Imperial%20College%20London.%20Verified), Bingbing Li)<br> Hangzhou, China, 2020~2021
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
+- [Automatic Echocardiogram Measurements and Diagnostic robotics system](https://www.aimspress.com/article/doi/10.3934/mbe.2023339)<br>*Designed and implemented end to end pipeline from scratch, from online data annation tool to model design and training and AWS deployment.*<br>**Ruixing Liang**, Xinnan Jiang (Advisors: [Dr. Fangde Liu](https://scholar.google.com/citations?user=I9rnEXwAAAAJ#:~:text=Fangde%20Liu.%20Imperial%20College%20London.%20Verified), [Dr.Chang Yu](https://scholar.google.com/citations?user=P5v33j4AAAAJ#:~:text=%E2%80%AAAWS;%20Nvidia;%20Intel;%20BGI%E2%80%AC%20-%20%E2%80%AA%E2%80%AACited))<br>Hangzhou, China, 2020
 
-  <br>
-
----
-
-## Early Project
-
-- [Proposal: Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
+- Wearable Smart Ring for Cardiac Monitoring<br>*Sophomore-year research projects*<br>**Ruixing Liang**, Jianqiang Lin, Yueming Li<br>Shenzhen, China, 2017.<br>
 
 > Update: 29th Sep 2024

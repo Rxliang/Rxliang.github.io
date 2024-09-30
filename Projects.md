@@ -29,11 +29,13 @@ title: Projects
 <img src="/images/projs/VR_setup.png">
 <br>With the growing adoption of sensors in operating rooms, surgeons are now better equipped to make precise, agile decisions during procedures. This is particularly crucial in neurosurgeries, where the level of accuracy required, especially for neural implants, makes these advanced tools not just beneficial, but essential. The integration of such technology ensures safer outcomes and helps navigate the complexities of modern surgery with greater confidence.
 <img src="/images/projs/demo_video_CIS.gif">
+<img src="/images/projs/robot.jpeg">
 
 ## Spotaneous and Natural Conversation Agent (Speech AI)
-
+Spontaneous and natural conversations are essential for more human-like interactions with AI. Our project focuses on developing advanced speech AI that can understand and participate in real, casual conversations. By training AI on natural dialogue, we aim to create systems that are more intuitive, engaging, and capable of meaningful interactions across various contexts. Stay tuned for more updates aiming for Interspeech submission in 2025.
 ## Multi-modal Deep Learning 
-
+My research on multi-modal deep learning integrates diverse data types to enhance AI systems’ ability to understand and respond to complex, real-world environments. In robot-assisted surgery, 3D vision sensing plays a crucial role by providing precise, real-time visual feedback, improving surgical accuracy and outcomes. Similarly, speech AI leverages deep learning to model natural language interactions, enabling AI systems to engage in spontaneous and intuitive conversations with users. Another innovative area combines semantic visual and semantic information with fMRI data, bridging the gap between visual perception and neural activity. 
+Together, these fields represent the power of multi-modal learning in advancing technology across vision, speech audio, natural language and cognitive neuroscience.
 ## Chat with me
 
 **Jan 2023:** I have set up the [online-coffee-time](https://outlook.office.com/bookwithme/user/86edc2fc0c3747159c5bc426da2559a4@jh.edu/meetingtype/53aZNPt1_0C4Mamsa9elnw2?anonymous&ep=mlink) Welcome to chat with me!
