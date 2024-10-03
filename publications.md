@@ -8,7 +8,7 @@ title: Publications
 
 ## Published Papers
 
-- [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366)<br>**Ruixing Liang**, Xiangyu Zhang, Qiong Li, Lai Wei, Hexin Liu, Avisha Kumar, Kelley M. Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, and Amir Manbachi<br>ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>Seoul, Korea. Apr, 2024.<br>
+- [Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex](https://ieeexplore.ieee.org/abstract/document/10446366)<br>**Ruixing Liang**, Xiangyu Zhang, Qiong Li, Lai Wei, Hexin Liu, Avisha Kumar, Kelley M. Kempski Leadingham, Joshua Punnoose, Leibny Paola Garcia, and Amir Manbachi<br>ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)<br>Seoul, Korea. Apr, 2024.<br> Poster [link](/mypaper/poster/Poster_VISION.pdf)
 
 - [Focused Ultrasound Neuromodulation of Human In Vitro Neural Cultures in Multi-Well Microelectrode Arrays](https://www.jove.com/t/65115/focused-ultrasound-neuromodulation-human-vitro-neural-cultures-multi)<br>**Ruixing Liang**, Griffin Mess, Joshua Punnoose, Kelley M. Kempski Leadingham, Constantin Smit, Nitish Thakor, Christa W. Habela, Betty Tyler, Yousef Salimpour, and Amir Manbachi<br>JoVE (Journal of Visualized Experiments) 207 (2024): e65115.
 

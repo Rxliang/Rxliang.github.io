@@ -10,7 +10,7 @@ title: Awards
 - June 2023 [International Conference on Information Processing in
 Computer-Assisted Interventions (IPCAI)](https://sites.google.com/view/ipcai-2023/home) Siemens Best Paper Award Honorary Mention (Top 3)
 - Apr 2022 Design of Medical Devices Conference **Oral** Presentation (Top 10)
-- May 2019 University Scholars Leadership Symposium delegate of China (Top 3 in University) 
+- May 2019 [University Scholars Leadership Symposium](https://www.humanitarianaffairs.asia/UniversityScholarsLeadershipSymposium/Overview/#:~:text=The%20annual%20University%20Scholars%20Leadership%20Symposium) delegate of China (Top 3 in University) 
 - Dec 2018 Annual Excellent Student (Top .5%)
 - Dec 2018 Dean's list in School of Science and Engineering (Top 8%)
 <br>
